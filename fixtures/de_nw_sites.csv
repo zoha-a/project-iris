@@ -1,0 +1,23 @@
+site_id,country,region,name,area_m2,lat,lon,recorded_on,accuracy_m,basis
+001,de,nw,Nordpark Flaeche A,12400,51.2612,6.7891,2026-09-01,5,measured
+002,de,nw,Suedhang Wiese Rath,8800,51.1877,6.8104,2026-09-01,10,measured
+003,de,nw,Altdeponie Ost,23150,51.3012,6.9440,2026-09-01,25,estimated
+004,DE,nw,Rheinaue Nord,15730,51.2288,6.7402,2026-09-01,5,measured
+005,de,NW,Gewerbebrache Hafen,9420,51.2455,6.7318,2026-09-01,10,measured
+006,de,nw,Bachaue Kalkum,5120,51.3188,6.7566,2026-09-01,,
+007,de,nw,Kiesgrube Sued,31890,51.1564,6.8712,2026-09-01,50,estimated
+008,de,nw,Feldflur Wittlaer,7640,51.3401,6.7289,2026-09-01,10,measured
+009,De,nw,Aufforstung Grafenberg,4980,51.2367,6.8455,2026-09-01,25,derived
+010,de,nw,Randstreifen A44,2310,51.2901,6.8033,2026-09-01,5,measured
+011,de,nw,Teichanlage Unterbach,6075,51.1992,6.9128,2026-08-15,,estimated
+012,de,nw,Moorflaeche Hubbelrath,18240,51.2544,6.9377,2026-08-15,100,estimated
+013,de,nw,Obstwiese Angermund,3860,51.3522,6.7644,2026-09-01,10,measured
+014,de,nw,Industriebrache Reisholz,27430,51.1723,6.8366,2026-09-01,25,derived
+015,de,nw,Uferzone Ilverich,11290,51.2810,6.7155,2026-09-01,5,measured
+016,de,nw,Heideflaeche Knittkuhl,8155,51.2698,6.8901,2026-09-01,,
+017,de,nw,Ausgleichsflaeche Hassels,4420,51.1836,6.8577,2026-09-01,10,measured
+018,de,nw,Waldsaum Ludenberg,9930,51.2455,6.8622,2026-09-01,25,estimated
+019,de,nw,Gruenzug Volmerswerth,6810,51.1948,6.7534,2026-09-01,5,measured
+020,de,nw,Deichvorland Lausward,14670,51.2102,6.7401,2026-09-01,10,measured
+021,de,nw,Stillgelegtes Bahngelaende,,,,2026-09-01,,estimated
+022, de,nw,Parzelle ohne Koordinaten,3300,,,2026-08-15,,

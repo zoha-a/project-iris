@@ -1,0 +1,10 @@
+site_id,country,region,name,area_m2,lat,lon,recorded_on,accuracy_m,basis
+101,,nw,Fehlendes Land,3000,51.2001,6.7002,2026-09-01,10,measured
+102,XX,nw,Unbekannter Laendercode,4000,51.2103,6.7114,2026-09-01,10,measured
+103,DEU,nw,Alpha3 statt Alpha2,5200,51.2205,6.7226,2026-09-01,10,measured
+104,de,nw,Breitengrad ausserhalb Bereich,6100,95.0000,6.7338,2026-09-01,10,measured
+105,de,nw,Laengengrad nicht numerisch,2700,51.2409,ost,2026-09-01,10,measured
+106,de,nw,Kein Quelldatum,4800,51.2511,6.7562,,10,measured
+107,de,nw,Negative Genauigkeit,5500,51.2613,6.7674,2026-09-01,-5,measured
+108,de,nw,Genauigkeit ohne Geometrie,6300,,,2026-09-01,10,estimated
+109,de,nw,Unbekannte Erhebungsart,7200,51.2715,6.7786,2026-09-01,10,geraten

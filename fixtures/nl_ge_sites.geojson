@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-001",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Veluwe Randzone Noord",
+        "opp_m2": 21400,
+        "peildatum": "2026-08-15",
+        "nauwkeurigheid_m": 10,
+        "basis": "measured"
+      },
+      "geometry": { "type": "Point", "coordinates": [5.8712, 52.1044] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-002",
+        "land": "NL",
+        "prov": "GE",
+        "naam": "Uiterwaard Arnhem Zuid",
+        "opp_m2": 13850,
+        "peildatum": "2026-08-15",
+        "nauwkeurigheid_m": 25,
+        "basis": "estimated"
+      },
+      "geometry": { "type": "Point", "coordinates": [5.9021, 51.9587] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-003",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Bedrijventerrein Nijmegen West",
+        "opp_m2": 30720,
+        "peildatum": "2026-08-15",
+        "nauwkeurigheid_m": 5,
+        "basis": "measured"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [5.8155, 51.8492],
+            [5.8231, 51.8492],
+            [5.8231, 51.8544],
+            [5.8155, 51.8544],
+            [5.8155, 51.8492]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-004",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Heideperceel Ede",
+        "opp_m2": 9260,
+        "peildatum": "2026-08-15",
+        "nauwkeurigheid_m": null,
+        "basis": "estimated"
+      },
+      "geometry": { "type": "Point", "coordinates": [5.6688, 52.0413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-005",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Groenstrook Apeldoorn Oost",
+        "opp_m2": 5480,
+        "peildatum": "2026-09-01",
+        "nauwkeurigheid_m": 10,
+        "basis": "measured"
+      },
+      "geometry": { "type": "Point", "coordinates": [5.9899, 52.2126] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-006",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Oeverzone Zutphen",
+        "opp_m2": 7315,
+        "peildatum": "2026-09-01"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.1944, 52.1401] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-007",
+        "land": "nl",
+        "prov": "GE",
+        "naam": "Perceel zonder geometrie",
+        "opp_m2": 4100,
+        "peildatum": "2026-09-01",
+        "basis": "estimated"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NL-GE-008",
+        "land": "",
+        "prov": "GE",
+        "naam": "Ontbrekende landcode",
+        "opp_m2": 3900,
+        "peildatum": "2026-09-01",
+        "nauwkeurigheid_m": 10,
+        "basis": "measured"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.0512, 52.0188] }
+    }
+  ]
+}
